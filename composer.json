@@ -1,10 +1,10 @@
  {
-  "name": "leantony/laravel-grid",
+  "name": "proibo/laravel-grid-laravel8",
   "description": "A grid view for laravel, inspired by the yii2 grid widget",
   "license": "MIT",
   "type": "library",
   "keywords": [
-    "leantony",
+    "proibo",
     "bootstrap",
     "laravel-grid",
     "laravel",
@@ -14,7 +14,7 @@
     "laravel5",
     "laravel6"
   ],
-  "homepage": "https://github.com/leantony/laravel-grid",
+  "homepage": "https://github.com/proibo/laravel-grid-laravel8.git",
   "authors": [
     {
       "name": "Antony ",
