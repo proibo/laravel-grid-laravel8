@@ -1,4 +1,4 @@
-{
+ {
   "name": "leantony/laravel-grid",
   "description": "A grid view for laravel, inspired by the yii2 grid widget",
   "license": "MIT",
@@ -17,8 +17,8 @@
   "homepage": "https://github.com/leantony/laravel-grid",
   "authors": [
     {
-      "name": "Antony [leantony] Chacha",
-      "email": "chachaantony@gmail.com",
+      "name": "Antony ",
+      "email": "chachaantony@gma.com",
       "role": "Developer"
     }
   ],
